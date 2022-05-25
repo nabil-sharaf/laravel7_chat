@@ -3,6 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
+=======
+            <file>file:/C:/xampp/htdocs/chat/app/Http/Controllers/Auth/AdminLoginController.php</file>
+>>>>>>> e0803a0b335d70783e7923c3702f67a007deedf4
             <file>file:/C:/xampp/htdocs/chat/routes/web.php</file>
         </group>
     </open-files>
